@@ -1,0 +1,24 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250214173353
+Username: IQMETRIXHO\Dan.Schroeder
+RunAs User: IQMETRIXHO\Dan.Schroeder
+Configuration Name: 
+Machine: DANS-P15 (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\Dan.Schroeder\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Process ID: 41028
+PSVersion: 5.1.26100.2161
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.2161
+BuildVersion: 10.0.26100.2161
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\dev\Git\PowerShell.Experiment.BugReproductions\src\5.1\Start-TranscriptInvertsWrite-Information\Result-PS-5.1.26100.2161\InformationPreferenceContinue.txt
+About to write an Information message with InformationPreference set to 'Continue'.
+**********************
+Windows PowerShell transcript end
+End time: 20250214173353
+**********************

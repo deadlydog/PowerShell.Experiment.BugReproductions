@@ -9,7 +9,9 @@ This makes it easy to share reproduction steps/examples with the PowerShell team
 
 ## 📁 File organization
 
-Each bug reproduction is put in it's own folder, located within a folder indicating the version of PowerShell the bug should be reproducible in.
+All code is located in the `src` folder.
+The next folder indicates the version of PowerShell the bug should be reproducible in.
+Lastly, each bug reproduction is put in it's own folder, along with a ReadMe.md file that describes it.
 
 ## ❤️ Donate to support this project
 
