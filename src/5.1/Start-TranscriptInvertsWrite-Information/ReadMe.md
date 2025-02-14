@@ -1,8 +1,8 @@
-# PowerShell 5.1 - Start-Transcript inverts Write-Information behavior
+# Windows PowerShell 5.1 - Start-Transcript inverts Write-Information behavior
 
 ## Problem
 
-The [Test.ps1](Test.ps1) script demonstrates a bug in Windows PowerShell 5.1's Start-Transcript that causes Write-Information to:
+In Windows PowerShell 5.1, there is a bug in `Start-Transcript` that causes `Write-Information` to:
 
 1. NOT write to the transcript file when the InformationPreference is Continue.
 2. Write to the transcript file when the InformationPreference is set to SilentlyContinue.
