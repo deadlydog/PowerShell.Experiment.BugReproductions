@@ -13,7 +13,7 @@ All code is located in the [src](/src/) folder.
 The next folder indicates the version of PowerShell the bug should be reproducible in.
 Lastly, each bug reproduction is put in it's own folder, along with a `ReadMe.md` file that describes it.
 
-## Bugs
+## 🐞 Bugs
 
 Below is the list of bugs that I have found and can be reproduced:
 
