@@ -12,7 +12,9 @@ This makes it easy to share reproduction steps/examples with the PowerShell team
 Below is the list of bugs that I have found and can be reproduced:
 
 - [Windows PowerShell 5.1 - Get-ChildItem ignores -Depth when used with -Include](src/5.1/Get-ChildItemIgnoresDepthParameter/ReadMe.md)
+  - I created [this PR](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/11804) to update the PowerShell documentation to note this bug.
 - [Windows PowerShell 5.1 - Start-Transcript inverts Write-Information behavior](src/5.1/Start-TranscriptInvertsWrite-Information/ReadMe.md)
+  - I created [this PR](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/11803) to update the PowerShell documentation to note this bug.
 
 ## 📁 Repo organization
 
